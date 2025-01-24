@@ -1,3 +1,6 @@
+# Check the report in Report.pdf File
+
+
 # DC-WCNN-Wavelet-based-CNN
 ### *Wavelet-based encoder decoder architecture for MRI Reconstruction* 
 > [DC-WCNN: A Deep Cascade Of Wavelet based Convolutional Neural Networks For MR Image Reconstruction](https://arxiv.org/abs/2001.02397) (ISBI 2020) 
